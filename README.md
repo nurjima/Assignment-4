@@ -6,3 +6,18 @@ This code provides a web page with the input text field that asks for coin name.
 
 ## News and blogs for cryptocurrency
 
+## Installation 
+flask (https://flask.palletsprojects.com/en/2.0.x/)
+flask_sqlalchemy (https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+requests  (https://pypi.org/project/requests/)
+beautifulSoup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+## Usage
+Install/Import libraries
+Set SQLALCHEMY_DATABASE_URI as postgreSQL or sqlite
+
+Write your login, password, loclahost and namee of the database:
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://user:password@localhost:port/database_name'
+
+## Examples 
+
