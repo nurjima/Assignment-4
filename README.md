@@ -31,6 +31,7 @@ Install/Import libraries
 Set SQLALCHEMY_DATABASE_URI as postgreSQL or sqlite
 
 Write your login, password, loclahost and namee of the database:
+
 _app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://user:password@localhost:port/database_name'
 _
 
