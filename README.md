@@ -36,3 +36,8 @@ _app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://user:password@localhost:p
 
 ## Examples 
 
+![Снимок 10 11 2021 в 17 20](https://user-images.githubusercontent.com/74738634/141104239-e6f91c34-9312-4069-9710-5fda48c38287.jpg)
+
+
+
+![Снимок 10 11 2021 в 17 21](https://user-images.githubusercontent.com/74738634/141104337-52872f61-4132-4ce3-8403-80464852ec9b.jpg)
