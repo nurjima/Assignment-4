@@ -6,7 +6,7 @@ This code provides a web page with the input text field that asks for coin name.
 
 
 ### Team members 
-#### Shamshidin Sabine (SE-2008), Shaliyeva Nurzhamal (SE-2012)
+#### Shamshidin Sabina (SE-2008), Shaliyeva Nurzhamal (SE-2012)
 
 
 
