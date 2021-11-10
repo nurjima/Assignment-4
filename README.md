@@ -7,10 +7,10 @@ This code provides a web page with the input text field that asks for coin name.
 ## News and blogs for cryptocurrency
 
 ## Installation 
-flask (https://flask.palletsprojects.com/en/2.0.x/)
-flask_sqlalchemy (https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
-requests  (https://pypi.org/project/requests/)
-beautifulSoup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+**flask** _(https://flask.palletsprojects.com/en/2.0.x/)_
+**flask_sqlalchemy** _(https://flask-sqlalchemy.palletsprojects.com/en/2.x/)_
+**requests**  _(https://pypi.org/project/requests/)_
+**beautifulSoup** _(https://www.crummy.com/software/BeautifulSoup/bs4/doc/)_
 
 ## Usage
 Install/Import libraries
